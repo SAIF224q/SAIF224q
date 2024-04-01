@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Saif ali
-- 🌱 I’m currently learning web development
 - Reach me at - saif224q@gmail.com
 - Twitter - https://twitter.com/Saif_Ali_224
 
