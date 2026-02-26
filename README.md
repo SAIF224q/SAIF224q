@@ -1,6 +1,6 @@
 # Hello there!
 
-Hi this saif here.
+Hi saif here.
 
 ## About Me
 I am currently doing vibe to create new generation software.
