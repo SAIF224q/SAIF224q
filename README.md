@@ -3,7 +3,7 @@
 Hi saif here.
 
 ## About Me
-I am currently doing vibe to create new generation software.
+I am currently vibe coding to create new generation software.
 
 ## Skills
 - **Programming Languages:** Python, JavaScript
