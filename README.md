@@ -1,15 +1,7 @@
 # Hello there!
 
-Hi saif here.
-
 ## About Me
 I am currently vibe coding to create new generation software.
-
-## Skills
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js
-- **Tools & Technologies:** Git, Docker, AWS
-- **Database Management:** MySQL, MongoDB
 
 ## Contact Information
 Feel free to reach out to me via:
