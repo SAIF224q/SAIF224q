@@ -1,7 +1,6 @@
 # Hello there!
 
-## About Me
-I am currently vibe coding to create new generation software.
+Build just build
 
 ## Contact Information
 Feel free to reach out to me via:
