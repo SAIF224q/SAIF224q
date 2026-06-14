@@ -10,3 +10,6 @@ Feel free to reach out to me via:
 ## Social Media Links
 - Twitter: [@Saif_Ali_224](https://x.com/Saif_Ali_224)
 - GitHub: [@SAIF224q](https://github.com/SAIF224q)
+
+## Blog
+[https://saif223q-logs.netlify.app/]
